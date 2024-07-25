@@ -7,7 +7,15 @@ This Bank Loan Report Dashboard represents a fusion of advanced SQL techniques a
 ### Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiOTVlOTc4Y2EtMmE0MC00YzE3LWFlNGMtY2E3ZWVlOTgyZGE5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
 ## Tool Used
-Power BI, SQL, Excel, Data visualization, statistics, Data Cleaning, Power Query, Data Visualization, Statistical Analysis,
+* Power BI,
+* SQL,
+* Excel,
+* Data visualization,
+* statistics,
+* Data Cleaning,
+* Power Query,
+* Data Visualization,
+* Statistical Analysis,
 
 ## Advanced SQL Functions Utilized:
 
